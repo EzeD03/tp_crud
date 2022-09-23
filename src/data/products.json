@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Cafetera Moulinex Dolce Gusto Edited",
+      "price": 3599,
+      "discount": 55,
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro 2022",
+      "price": 500,
+      "discount": 3,
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S10",
+      "price": 72999,
+      "discount": 25,
+      "categoryId": "4"
+    },
+    {
+      "id": 4,
+      "name": "Heladera no frost Whirlpool WRM45A",
+      "price": 47900,
+      "discount": 10,
+  
+      "categoryId": "1"
+    },
+    {
+      "id": 5,
+      "name": "Nikon Reflex D3500 - Kit",
+      "price": 53000,
+      "discount": 20,
+      "categoryId": "3"
+    },
+    {
+      "id": 6,
+      "name": "Aire Acondicionado 3200w Frio / Calor",
+      "price": 20999,
+      "discount": 12,
+      "categoryId": "1"
+    },
+    {
+      "id": 7,
+      "name": "Notebook Lenovo I3 Intel 8gb Ram",
+      "price": 36700,
+      "discount": 5,
+      "categoryId": "2"
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 11 Pro Dual SIM 256 GB",
+      "price": 148000,
+      "discount": 2,
+      "categoryId": "4"
+    },
+    {
+      "id": 9,
+      "name": "Teclado Apple Magic Inalámbrico",
+      "price": 11399,
+      "discount": 0,
+      "categoryId": "2"
+    },
+    {
+      "id": 10,
+      "name": "Mouse Inalámbrico Logitech M280",
+      "price": 3500,
+      "discount": 10,
+      "categoryId": "2"
+    },
+    {
+      "id": 11,
+      "name": "Parlante Inalámbrico Bose Soundtouch 10",
+      "price": 29990,
+      "discount": 12,
+      "categoryId": "1"
+    },
+    {
+      "id": 12,
+      "name": "Home Theatre Sony Bdv-e4100",
+      "price": 32990,
+      "discount": 0,
+      "categoryId": "5"
+    },
+    {
+      "id": 13,
+      "name": "Smart TV Samsung 4K 50",
+      "price": 58999,
+      "discount": 0,
+      "categoryId": "1"
+    },
+    {
+      "id": 14,
+      "name": "Sony S6700 Reproductor De Blu-ray ",
+      "price": 10999,
+      "discount": 5,
+      "categoryId": "3"
+    },
+    {
+      "id": 15,
+      "name": "Bicicleta Mountain Bike Fierce Rodado 29",
+      "price": 32000,
+      "discount": 12,
+      "categoryId": "5"
+    },
+    {
+      "id": 16,
+      "name": "Sony Srs-xb12 Parlante Bluetooth Portátil",
+      "price": 4699,
+      "discount": 5,
+      "categoryId": "3"
+    },
+    {
+      "id": 17,
+      "name": "a",
+      "price": 134,
+      "discount": 4,
+      "categoryId": "5"
+    }
+  ]
+  
