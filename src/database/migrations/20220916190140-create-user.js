@@ -11,7 +11,7 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      username: {
+      surname: {
         type: Sequelize.STRING
       },
       email: {
@@ -27,9 +27,9 @@ module.exports = {
         type: Sequelize.INTEGER,
         references : {
           model : {
-            tableName : "Rols"
+            tableName : 'Rols'
           },
-          key : "id"
+          key : 'id'
         }
       },
       createdAt: {
@@ -37,11 +37,9 @@ module.exports = {
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       },
       deletedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       }
     });

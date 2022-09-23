@@ -24,9 +24,9 @@ module.exports = {
         type: Sequelize.INTEGER,
         references : {
           model : {
-            tableName : "Categories"
+            tableName : 'Categories'
           },
-          key : "id"
+          key : 'id'
         }
       },
       createdAt: {
@@ -34,11 +34,9 @@ module.exports = {
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       },
       deletedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       }
     });

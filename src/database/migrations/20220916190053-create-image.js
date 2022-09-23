@@ -15,9 +15,9 @@ module.exports = {
         type: Sequelize.INTEGER,
         references : {
           model : {
-            tableName : "Products"
+            tableName : 'Products'
           },
-          key : "id"
+          key : 'id'
         }
       },
       createdAt: {
@@ -25,11 +25,9 @@ module.exports = {
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       },
       deletedAt: {
-        allowNull: true,
         type: Sequelize.DATE
       }
     });
